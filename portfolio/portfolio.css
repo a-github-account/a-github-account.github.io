@@ -1,11 +1,13 @@
 #navbar {
 	list-style-type: none;
 	margin: 0;
+	backgroundColor: #000000;
 	padding: 0;
+	width: 100%;
+	top: 0;
+	position: fixed;
 }
 .navbarlink {
 	display: inline;
-	border-style: solid;
-	border-color: rgb(0, 0, 0);
-	border-width: 5px;
+	border-right: 5px solid #dddddd
 }
