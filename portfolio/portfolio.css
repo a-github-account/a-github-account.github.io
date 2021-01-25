@@ -6,11 +6,11 @@ ul {
 	background-color: #333;
 }
 
-li {
+#navbar{
 	float: left;
 }
 
-li a {
+.navbarlink{
 	display: block;
 	color: white;
 	text-align: center;
@@ -18,6 +18,6 @@ li a {
 	text-decoration: none;
 }
 
-li a:hover {
-    background-color: #111;
+#navbar:hover{
+	background-color: #111;
 }
