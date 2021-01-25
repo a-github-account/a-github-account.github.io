@@ -13,17 +13,18 @@
 
 .navelement a {
 	display: block;
-	color: #666;
+	color: #FFF;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	font: 'sans-serif';
 }
 
 .navelement a:hover:not(.active) {
-	background-color: #ddd;
+	background-color: #000;
 }
 
 .navelement a.active {
 	color: white;
-	background-color: #4CAF50;
+	background-color: #777;
 }
