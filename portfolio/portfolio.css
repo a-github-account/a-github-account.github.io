@@ -10,8 +10,9 @@
 }
 
 .navelement a {
+	background-color: #FFF;
 	display: block;
-	color: #333;
+	color: #777;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -19,7 +20,7 @@
 }
 
 .navelement a:hover:not(.active) {
-	background-color: #FFF;
+	background-color: #000;
 }
 
 .navelement a.active {
