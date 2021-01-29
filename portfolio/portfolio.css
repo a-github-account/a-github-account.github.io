@@ -6,13 +6,13 @@
 }
 
 .navelement {
-	float: left;
+	float: center;
 }
 
 .navelement a {
 	background-color: #FFF;
 	display: block;
-	color: #777;
+	color: #000;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -22,7 +22,7 @@
 }
 
 .navelement a:hover:not(.active) {
-	background-color: #000;
+	background-color: #AAA;
 }
 
 .navelement a.active {
