@@ -24,6 +24,6 @@
 }
 
 .navelement a.active {
-	color: white;
-	background-color: #FFF;
+	color: #333;
+	background-color: #000;
 }
