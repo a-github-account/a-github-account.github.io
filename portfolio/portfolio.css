@@ -18,8 +18,8 @@
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	width: 25%
-	font: 'sans-serif';
+	width: 25%;
+	font-family: 'sans-serif';
 }
 
 .navelement a:hover:not(.active) {
@@ -29,4 +29,14 @@
 .navelement a.active {
 	color: #000;
 	background-color: #AAA;
+}
+
+h1: {
+	align: center;
+	font-family: 'sans-serif';
+}
+
+p: {
+	align: center;
+	font-family: 'sans-serif';
 }
