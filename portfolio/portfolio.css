@@ -31,16 +31,16 @@
 	background-color: #AAA;
 }
 
-h1: {
+h1 {
 	text-align: center;
 	font-family: "Courier New", monospace;
 }
 
-p: {
+p {
 	text-align: center;
 	font-family: sans-serif;
 }
 
-img: {
+img {
 	text-align: center;
 }
