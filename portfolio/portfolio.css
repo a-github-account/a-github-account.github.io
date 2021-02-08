@@ -54,4 +54,11 @@ img {
 	width: 100%;
 	overflow: hidden;
 }
-
+body {
+	background-color: #000;
+}
+#container {
+	background-color: #FFF;
+	width: 80%;
+	height: 100%;
+}
