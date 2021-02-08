@@ -42,9 +42,9 @@ img {
 
 .program {
 	float: left;
+	margin: auto;
 	padding-bottom: 100%;
 	margin-bottom: -100%;
-	margin: auto;
 }
 .programscontainer {
 	width: 100%;
