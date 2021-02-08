@@ -9,7 +9,7 @@
 
 .navelement {
 	float: left;
-	width: 33%
+	width: 33%;
 }
 
 .navelement a {
@@ -32,11 +32,15 @@
 }
 
 h1: {
-	align: center;
+	text-align: center;
 	font-family: "Courier New", monospace;
 }
 
 p: {
-	align: center;
+	text-align: center;
 	font-family: sans-serif;
+}
+
+img: {
+	text-align: center;
 }
