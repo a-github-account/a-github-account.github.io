@@ -45,11 +45,14 @@ img {
 	text-align: center;
 }
 
-.program{
-	float: left;
+.program {
 	width: 50%;
+	float: left;
+	padding-bottom: 100%;
+	margin-bottom: -100%;
 }
-.programscontainer{
+.programscontainer {
 	width: 100%;
-	float: top;
+	overflow: hidden;
 }
+
