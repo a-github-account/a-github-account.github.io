@@ -47,8 +47,8 @@ img {
 
 .program{
 	float: left;
+	width: 50%;
 }
 .programscontainer{
 	width: 100%;
-	padding: 1px;
 }
