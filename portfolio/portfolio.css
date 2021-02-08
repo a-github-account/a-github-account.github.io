@@ -8,7 +8,7 @@
 
 .navelement {
 	float: left;
-	
+	width: 33%
 }
 
 .navelement a {
@@ -18,7 +18,7 @@
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	font-family: 'sans-serif';
+	font-family: sans-serif;
 }
 
 .navelement a:hover:not(.active) {
@@ -32,10 +32,10 @@
 
 h1: {
 	align: center;
-	font-family: 'sans-serif';
+	font-family: sans-serif;
 }
 
 p: {
 	align: center;
-	font-family: 'sans-serif';
+	font-family: sans-serif;
 }
