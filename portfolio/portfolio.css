@@ -51,4 +51,5 @@ img {
 }
 .programscontainer{
 	width: 100%;
+	float: top;
 }
