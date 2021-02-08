@@ -22,12 +22,7 @@
 	font-family: sans-serif;
 }
 
-.navelement a:hover:not(.active) {
-	background-color: #AAA;
-}
-
-.navelement a.active {
-	color: #000;
+.navelement a:hover{
 	background-color: #AAA;
 }
 
@@ -59,8 +54,10 @@ body {
 	background-color: #000;
 }
 #container {
-	background-color: #FFF;
+	background-color: #AAA;
 	width: 80%;
 	height: 100%;
 	margin: auto;
+	border-width: 2px;
+	border-color: #FFF;
 }
