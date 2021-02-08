@@ -42,7 +42,7 @@ p {
 }
 
 img {
-	text-align: center;
+	margin: auto;
 }
 
 .program {
@@ -61,4 +61,5 @@ body {
 	background-color: #FFF;
 	width: 80%;
 	height: 100%;
+	margin: auto;
 }
