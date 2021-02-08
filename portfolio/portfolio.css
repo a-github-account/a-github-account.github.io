@@ -44,3 +44,10 @@ p {
 img {
 	text-align: center;
 }
+
+.program{
+	float: top;
+}
+.programcontainer{
+	width: 100%;
+}
